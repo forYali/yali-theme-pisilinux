@@ -19,7 +19,7 @@ class Build(build):
         build.run(self)
 
         self.mkpath(self.build_base)
-        self.spawn(["rcc", "-binary", "data.qrc", "-o", "%s/data.rcc" % self.build_base])
+        self.spawn(["rcc-qt5", "-binary", "data.qrc", "-o", "%s/data.rcc" % self.build_base])
 
 
 class Install(install):
