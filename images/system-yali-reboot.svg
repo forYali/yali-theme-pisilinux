@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="system-yali-reboot.svg"
+   inkscape:export-filename="/home/trlinux/yaliTema/images/system-yali-reboot.png"
+   inkscape:export-xdpi="19.799999"
+   inkscape:export-ydpi="19.799999">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="-37.498294"
+     inkscape:cy="58.569903"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="711"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-952.36218)">
+    <g
+       id="system-log-out"
+       transform="matrix(-4.5454545,0,0,4.5454545,99.99999,952.36234)">
+      <path
+         id="path3811"
+         d="M 11,2 C 9.562253,2 8.208176,2.3384519 7,2.9375 l 0,1.125 C 8.1742029,3.3821208 9.5449893,3 11,3 c 4.418278,0 8,3.5817218 8,8 0,4.418278 -3.581722,8 -8,8 -1.4550107,0 -2.8257971,-0.382121 -4,-1.0625 l 0,1.125 C 8.208176,19.661548 9.562253,20 11,20 c 4.970563,0 9,-4.029437 9,-9 0,-4.9705632 -4.029437,-9 -9,-9 z"
+         style="fill:#f7f7f7;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4017"
+         d="m 5.3909236,6.5077004 a 0.50005,0.50005 0 0 0 -0.28125,0.1875 l -3,4.0000006 a 0.50005,0.50005 0 0 0 0,0.625 l 3,4 a 0.51253811,0.51253811 0 1 0 0.8125,-0.625 l -2.78125,-3.6875 2.78125,-3.6875006 a 0.50005,0.50005 0 0 0 -0.53125,-0.8125 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#f7f7f7;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4027"
+         d="m 3,10.5 0,1 5,0 0,-1 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#f7f7f7;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" />
+      <path
+         id="path4031"
+         d="m 11,7.5 c -1.9329967,0 -3.5,1.5670033 -3.5,3.5 0,1.932997 1.5670033,3.5 3.5,3.5 1.932997,0 3.5,-1.567003 3.5,-3.5 0,-1.9329967 -1.567003,-3.5 -3.5,-3.5 z m 0,1 c 1.380712,0 2.5,1.1192881 2.5,2.5 0,1.380712 -1.119288,2.5 -2.5,2.5 C 9.6192881,13.5 8.5,12.380712 8.5,11 8.5,9.6192881 9.6192881,8.5 11,8.5 Z"
+         style="fill:#f7f7f7;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <rect
+         y="-3.5037385e-05"
+         x="-2e-06"
+         height="22"
+         width="22"
+         id="rect4036"
+         style="fill:#566060;fill-opacity:0;stroke:none" />
+    </g>
+  </g>
+</svg>
