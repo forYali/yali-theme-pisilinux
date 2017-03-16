@@ -14,7 +14,7 @@
    width="250"
    height="50"
    sodipodi:docname="logo.svg"
-   inkscape:export-filename="/home/trlinux/yaliTema/gui/pics/logo.png"
+   inkscape:export-filename="/home/trlinux/yali-theme-pisilinux/gui/pics/logo.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <metadata
@@ -39,12 +39,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="711"
+     inkscape:window-height="718"
      id="namedview124"
      showgrid="false"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="144.42801"
-     inkscape:cy="41.167977"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="85.601206"
+     inkscape:cy="29.317262"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -92,7 +92,8 @@
   <flowRoot
      xml:space="preserve"
      id="flowRoot3348"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"><flowRegion
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     transform="translate(6.3492422,-5.0355338)"><flowRegion
        id="flowRegion3350"><rect
          id="rect3352"
          width="256.67975"
@@ -101,4 +102,4 @@
          y="3.3309536"
          style="fill:#ffffff;" /></flowRegion><flowPara
        id="flowPara3354"
-       style="-inkscape-font-specification:'monospace Bold';font-family:monospace;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#ffffff;">Pisi Linux</flowPara></flowRoot></svg>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:Zekton;-inkscape-font-specification:'Zekton Bold';fill:#ffffff;">Pisi Linux</flowPara></flowRoot></svg>
