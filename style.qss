@@ -34,7 +34,7 @@
         border-bottom: 1px solid rgba(255, 255, 255, 100);/*white*/
         border-left: 1px solid rgba(255, 255, 255, 100);/*white*/
         border-right: 1px solid rgba(255, 255, 255, 100);/*white*/
-        background-color:rgba(100,25,60,240);
+        background-color:rgba(30,30,30,240);
         border-bottom-left-radius:3px;
         border-bottom-right-radius:3px;
     }
@@ -75,18 +75,18 @@
         border:1px solid  rgba(34, 49, 60, 100);
         border-radius:2px;
         background-color: qlineargradient(spread:pad, x1:0.5, y1:1, x2:0.5, y2:0,
-            stop:0 rgba(129, 3, 3, 255), stop:0.0192308 rgba(160, 35, 25, 255),
-            stop:0.521739 rgba(166, 35, 29, 255), stop:0.531585 rgba(184, 46, 40, 255),
-            stop:0.983696 rgba(168, 78, 74, 255), stop:1 rgba(210, 110, 110, 255))
+            stop:0 rgba(30, 30, 30, 255), stop:0.0192308 rgba(50, 50, 50, 255),
+            stop:0.521739 rgba(20, 20, 20, 255), stop:0.531585 rgba(40, 40, 40, 255),
+            stop:0.983696 rgba(0, 0, 0, 255), stop:1 rgba(20, 20, 20, 255))
     }
 
     #newButton:pressed {
         border:1px solid  rgba(34, 49, 60, 100);
         border-radius:2px;
         background-color: qlineargradient(spread:pad, x1:0.5, y1:1, x2:0.5, y2:0,
-            stop:0 rgba(129, 3, 3, 255), stop:0.0192308 rgba(160, 35, 25, 255),
-            stop:0.521739 rgba(166, 35, 29, 255), stop:0.531585 rgba(184, 46, 40, 255),
-            stop:0.983696 rgba(168, 78, 74, 255), stop:1 rgba(210, 110, 110, 255))
+            stop:0 rgba(30, 30, 30, 255), stop:0.0192308 rgba(50, 50, 50, 255),
+            stop:0.521739 rgba(20, 20, 20, 255), stop:0.531585 rgba(40, 40, 40, 255),
+            stop:0.983696 rgba(0, 0, 0, 255), stop:1 rgba(20, 20, 20, 255))
     }
 
     #toggleHelp{
@@ -97,10 +97,7 @@
     #toggleHelp::flat:hover {
         border:1px solid  rgba(255, 255, 255, 40);
         border-radius:2px;
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1,
-            stop:0 rgba(127, 127, 127, 10),
-            stop:0.513661 rgba(231, 231, 231, 50),
-            stop:1 rgba(94, 94, 94, 10))
+        background-color: rgba(94, 94, 94, 10);
     }
 
     #toggleHelp::flat {
@@ -120,20 +117,14 @@
         border:1px solid  rgba(34, 49, 60, 100);
         border-radius:2px;
         padding: 3px 10px 3px 10px;
-        background-color: qlineargradient(spread:pad, x1:0.5, y1:1, x2:0.5, y2:0,
-            stop:0 rgba(129, 3, 3, 255), stop:0.0192308 rgba(160, 35, 25, 255),
-            stop:0.521739 rgba(166, 35, 29, 255), stop:0.531585 rgba(184, 46, 40, 255),
-            stop:0.983696 rgba(168, 78, 74, 255), stop:1 rgba(210, 110, 110, 255))
+        background-color: rgba(0, 0, 0, 255);
     }
 
 
     #toggleHelp::flat:checked {
         border:1px solid  rgba(255, 255, 255, 30);
         border-radius:2px;
-        background-color: qlineargradient(spread:repeat, x1:0, y1:0, x2:0, y2:1,
-            stop:0 rgba(27, 27, 27, 0),
-            stop:0.510753 rgba(9, 9, 9, 10),
-            stop:1 rgba(0, 0, 0, 0));
+        background-color: rgba(27, 27, 27, 0);
     }
 
 
@@ -144,14 +135,11 @@
         border-radius: 2px;
         color:white;
         font-size: 13px;
-        background-color:qlineargradient(spread:repeat, x1:0, y1:0, x2:0, y2:1,
-           stop:0.42623 rgba(200, 79, 136, 255), 
-           stop:0.489247 rgba(200, 52, 119, 255),
-           stop:1 rgba(200, 0, 105, 255))
+        background-color: rgba(30, 30, 30, 255);
     }
 
     #calendarWidget QFrame {
-        background-color: #eeeeee;
+        background-color: #ffffff;
         border: 0px;
         border-radius: 2px;
         font-size: 13px
@@ -162,7 +150,7 @@
     }
 
     #calendarWidget QWidget:hover {
-        color: #bbbbbb;
+        color: #eeeeee;
     }
 
 
@@ -175,10 +163,7 @@
     #calendarWidget QComboBox:!editable:hover, QComboBox::drop-down:editable:hover {
         color:white;
         border-radius:2px;
-        background-color: qlineargradient(spread:pad, x1:0.5, y1:1, x2:0.5, y2:0,
-            stop:0 rgba(129, 3, 3, 255), stop:0.0192308 rgba(160, 35, 25, 255),
-            stop:0.521739 rgba(166, 35, 29, 255), stop:0.531585 rgba(184, 46, 40, 255),
-            stop:0.983696 rgba(168, 78, 74, 255), stop:1 rgba(210, 110, 110, 255))
+        background-color: rgba(60, 60, 60, 255);
     }
 
 
@@ -187,8 +172,7 @@
 
     QDateEdit {
         color: white;
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
-            stop:0 rgba(255, 255, 255, 10));
+        background-color: rgba(255, 255, 255, 10);
         border:1px solid  rgba(255, 255, 255, 40);
         border-radius: 3px;
     }
@@ -201,8 +185,7 @@
         subcontrol-position: bottom right; /* position at the top right corner */
         width: 16px; /* 16 + 2*1px border-width = 15px padding + 3px parent border */
         border-image: url(:/images/arrow-down.png);
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
-            stop:0 rgba(255, 255, 255, 10));
+        background-color: rgba(255, 255, 255, 10);
     }
 
     QDateEdit::drop-down {
@@ -211,8 +194,7 @@
         width: 22px;
         border-top-right-radius: 4px;
         border-bottom-right-radius: 3px;
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
-            stop:0 rgba(255, 255, 255, 10));
+        background-color: rgba(255, 255, 255, 10);
     }
 
     QDateEdit::drop-down:hover {
@@ -221,8 +203,7 @@
         width: 22px;
         border-top-right-radius: 4px;
         border-bottom-right-radius: 3px;
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
-            stop:0 rgba(255, 255, 255, 20));
+        background-color: rgba(255, 255, 255, 20);
     }
 
     QDateEdit::down-button:hover {
@@ -231,8 +212,7 @@
         subcontrol-position: bottom right; /* position at the top right corner */
         width: 16px; /* 16 + 2*1px border-width = 15px padding + 3px parent border */
         border-image: url(:/images/arrow-down.png);
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
-            stop:0 rgba(255, 255, 255, 20));
+        background-color: rgba(255, 255, 255, 20);
     }
 
     QDateEdit::down-arrow {
@@ -257,9 +237,7 @@
         border:0px;
         border-radius:2px;
         border:1px solid  rgba(255, 255, 255, 30);
-        background-color: qlineargradient(spread:repeat, x1:0, y1:0, x2:0, y2:1,
-            stop:0 rgba(27, 27, 27, 0), 
-            stop:0.510753 rgba(9, 9, 9, 10), stop:1 rgba(0, 0, 0, 0));
+        background-color:  rgba(27, 27, 27, 0);
     }
 
     QPushButton:flat{
@@ -268,33 +246,26 @@
         border:0px;
         border-radius:2px;
         border:1px solid  rgba(255, 255, 255, 30);
-        background-color: qlineargradient(spread:repeat, x1:0, y1:0, x2:0, y2:1,
-            stop:0 rgba(27, 27, 27, 0), 
-            stop:0.510753 rgba(9, 9, 9, 10), stop:1 rgba(0, 0, 0, 0));
+        background-color: rgba(9, 9, 9, 10);
     }
     
     QPushButton:hover{
         border:1px solid  rgba(255, 255, 255, 40);
         border-radius:2px;
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1,
-            stop:0 rgba(127, 127, 127, 10), stop:0.513661 rgba(231, 231, 231, 50),
-            stop:1 rgba(94, 94, 94, 10))
+        background-color: rgba(231, 231, 231, 50);
     }
 
     QPushButton:checked{
         border:1px solid  rgba(255, 255, 255, 30);
         border-radius:2px;
-        background-color: qlineargradient(spread:repeat, x1:0, y1:0, x2:0, y2:1,
-            stop:0 rgba(27, 27, 27, 0), stop:0.510753 rgba(9, 9, 9, 10),
-            stop:1 rgba(0, 0, 0, 0));
+        background-color:  rgba(9, 9, 9, 10);
     }
 
     QPushButton:pressed{
         border:1px solid  rgba(255, 255, 255, 15);
         border-radius:2px;
         padding: 3px 10px 3px 10px;
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
-            stop:0 rgba(52, 52, 52, 50));
+        background-color: rgba(52, 52, 52, 50);
     }
 
     
@@ -303,17 +274,13 @@
 
     QSlider::groove:horizontal {
         height: 12px;
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
-            stop:0 rgba(255, 255, 255, 20));
+        background-color: rgba(255, 255, 255, 20);
         margin: 2px 0;
     }
 
     QSlider::handle:horizontal {
-        background: qlineargradient(spread:repeat, x1:0, y1:0, x2:0, y2:1,
-            stop:0.42623 rgba(200, 79, 136, 255),
-            stop:0.489247 rgba(200, 52, 119, 255),
-            stop:1 rgba(200, 0, 105, 255));
-        border: 1px solid #5c5c5c;
+        background:  rgba(30, 30, 30, 255);
+        border: 1px solid #cccccc;
         width: 18px;
         margin: 0 0;
         border-radius: 2px;
@@ -324,10 +291,7 @@
         width: 18px;
         margin: 0 0;
         border-radius: 2px;
-        background: qlineargradient(spread:repeat, x1:0, y1:0, x2:0, y2:1,
-           stop:0.42623 rgba(200, 79, 136, 200),
-           stop:0.489247 rgba(200, 52, 119, 200),
-           stop:1 rgba(200, 0, 105, 200));
+        background: rgba(30, 30, 30, 200);
     }
     
 
@@ -338,9 +302,7 @@
         border:1px solid  rgba(255, 255, 255, 30);
         border-radius:2px;
         padding:1px 10px 1px 5px;
-        background-color: qlineargradient(spread:repeat, x1:0, y1:0, x2:0, y2:1,
-            stop:0 rgba(27, 27, 27, 0), 
-            stop:0.510753 rgba(9, 9, 9, 10), stop:1 rgba(0, 0, 0, 0));
+        background-color: rgba(9, 9, 9, 10);
     }
 
     QToolButton[popupMode="1"] {
@@ -350,17 +312,14 @@
     QToolButton:hover {
         border:1px solid  rgba(255, 255, 255, 40);
         border-radius:2px;
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1,
-            stop:0 rgba(127, 127, 127, 10), stop:0.513661 rgba(231, 231, 231, 50),
-            stop:1 rgba(94, 94, 94, 10))
+        background-color: rgba(231, 231, 231, 50);
     }
 
     QToolButton:pressed {
         border:1px solid  rgba(255, 255, 255, 15);
         border-radius:2px;
         padding:1px 10px 1px 5px;
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
-            stop:0 rgba(52, 52, 52, 50));
+        background-color: rgba(52, 52, 52, 50);
     }
 
     QToolButton::menu-button {
@@ -387,10 +346,7 @@
 /* #QlistView */
 
     QListView {
-        background-color: qlineargradient(spread:repeat, x1:0, y1:0, x2:0, y2:1,
-            stop:0 rgba(27, 27, 27, 10),
-            stop:0.510753 rgba(9, 9, 9, 10),
-            stop:1 rgba(0, 0, 0, 10));
+        background-color: rgba(9, 9, 9, 10);
         show-decoration-selected: 1; /* make the selection span the entire width of the view */
     }
 
@@ -398,25 +354,21 @@
         border-radius: 2px;
         border:0px;
         padding: 5px;
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
-            stop:0 rgba(0, 0, 0, 0));
+        background-color: rgba(0, 0, 0, 0);
     }
     QListView::item:alternate {
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
-            stop:0 rgba(0, 0, 0, 5));
+        background-color: rgba(0, 0, 0, 5);
     }
     QListView::item:selected {
         border:0px;
     }
 
     QListView::item:selected:!active {
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
-            stop:0 rgba(52, 52, 52, 50));
+        background-color: rgba(52, 52, 52, 50);
     }
 
     QListView::item:selected:active {
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
-            stop:0 rgba(52, 52, 52, 50));
+        background-color: rgba(52, 52, 52, 50);
     }
 
     QListView::item:hover {
@@ -428,8 +380,7 @@
 
     QTimeEdit {
         color: white;
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
-            stop:0 rgba(255, 255, 255, 10));
+        background-color: rgba(255, 255, 255, 10);
         border:1px solid  rgba(255, 255, 255, 40);
         border-radius: 3px;
     }
@@ -450,8 +401,7 @@
         subcontrol-position: top right; /* position at the top right corner */
         width: 16px; /* 16 + 2*1px border-width = 15px padding + 3px parent border */
         border-image: url(:/images/arrow-up.png);
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
-            stop:0 rgba(255, 255, 255, 10));
+        background-color: rgba(255, 255, 255, 10);
     }
 
     QTimeEdit::up-button:hover {
@@ -460,8 +410,7 @@
         subcontrol-position: top right; /* position at the top right corner */
         width: 16px; /* 16 + 2*1px border-width = 15px padding + 3px parent border */
         border-image: url(:/images/arrow-up.png);
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
-            stop:0 rgba(255, 255, 255, 20));
+        background-color: rgba(255, 255, 255, 20);
     }
 
     QTimeEdit::down-button {
@@ -470,8 +419,7 @@
         subcontrol-position: bottom right; /* position at the top right corner */
         width: 16px; /* 16 + 2*1px border-width = 15px padding + 3px parent border */
         border-image: url(:/images/arrow-down.png);
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
-            stop:0 rgba(255, 255, 255, 10));
+        background-color: rgba(255, 255, 255, 10);
     }
 
     QTimeEdit::down-button:hover {
@@ -480,8 +428,7 @@
         subcontrol-position: bottom right; /* position at the top right corner */
         width: 16px; /* 16 + 2*1px border-width = 15px padding + 3px parent border */
         border-image: url(:/images/arrow-down.png);
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
-            stop:0 rgba(255, 255, 255, 20));
+        background-color: rgba(255, 255, 255, 20);
     }
 
 
@@ -495,8 +442,7 @@
         border:1px solid  rgba(255, 255, 255, 40);
         border-radius: 3px;
         selection-background-color: gray;
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
-            stop:0 rgba(255, 255, 255, 10));
+        background-color: rgba(255, 255, 255, 10);
     }
 
     QSpinBox:hover {
@@ -509,13 +455,11 @@
         subcontrol-position: top right; /* position at the top right corner */
         width: 16px; /* 16 + 2*1px border-width = 15px padding + 3px parent border */
         border-image: url(:/images/arrow-up.png);
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
-            stop:0 rgba(255, 255, 255, 10));
+        background-color: rgba(255, 255, 255, 10);
     }
 
     QSpinBox::up-button:hover {
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
-            stop:0 rgba(255, 255, 255, 20));
+        background-color: rgba(255, 255, 255, 20);
         border-top-right-radius: 3px;
         subcontrol-origin: border;
         subcontrol-position: top right; /* position at the top right corner */
@@ -524,8 +468,7 @@
     }
 
     QSpinBox::down-button {
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
-            stop:0 rgba(255, 255, 255, 10));
+        background-color: rgba(255, 255, 255, 10);
         border-bottom-right-radius: 3px;
         subcontrol-origin: border;
         subcontrol-position: bottom right; /* position at the top right corner */
@@ -534,8 +477,7 @@
     }
 
     QSpinBox::down-button:hover {
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
-            stop:0 rgba(255, 255, 255, 20));
+        background-color: rgba(255, 255, 255, 20);
         border-bottom-right-radius: 3px;
         subcontrol-origin: border;
         subcontrol-position: bottom right; /* position at the top right corner */
@@ -558,9 +500,7 @@
         /*background-image: url(:/images/background-dialog.png);*/
         background-repeat: no-repeat;
         background-position: bottom center;
-        background-color: qlineargradient(spread:pad, x1:1, y1:1, x2:1, y2:0,
-            stop:0 rgba(200, 52, 119, 180),
-            stop:1 rgba(200, 0, 105, 100))
+        background-color: rgba(20, 20, 20, 180);
     }
 
 
@@ -659,37 +599,32 @@
     }
 
     QComboBox:!editable, QComboBox::drop-down:editable {
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
-                                         stop:0 rgba(255, 255, 255, 10));
+        background-color: rgba(255, 255,255, 10);
     }
 
     /* QComboBox gets the "on" state when the popup is open */
     QComboBox:!editable:on{
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
-            stop:0 rgba(255, 255, 255, 255));
+        background-color: rgba(0, 0, 0, 255);
     }
 
     QComboBox::drop-down:editable:on {
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
-            stop:0 rgba(255, 255, 255, 255));    
+        background-color: rgba(0, 0, 0, 255);    
     }
     
     QComboBox:disabled {
-        background-color: rgba(160, 160, 160, 160);
+        background-color: rgba(100, 100, 100, 160);
     }
 
     QComboBox:!editable:hover, QComboBox::drop-down:editable:hover {
         border:1px solid  rgba(255, 255, 255, 60);
         border-radius:2px;
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
-            stop:0 rgba(255, 255, 255, 15));
+        background-color: rgba(0, 0, 0, 15);
 
     }
 
     QComboBox:on:hover {
         border:1px solid  rgba(255, 255, 255, 40);
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
-            stop:0 rgba(255, 255, 255, 15));
+        background-color: rgba(255, 255, 255, 15);
     }
 
     QComboBox:on { /* shift the text when the popup opens */
@@ -697,7 +632,7 @@
         padding-left: 4px;
         border:0px;
         border-bottom: 1px solid rgba(255, 255, 255, 30);
-        background-color: rgba(255, 255, 255, 200);        
+        background-color: rgba(0, 0, 0, 200);        
     }
 
     QComboBox::drop-down {
@@ -735,18 +670,17 @@
     }
 
     QComboBox QAbstractItemView {
-        color: #222222;
+        color: #989898;
         border:0px;
         border-bottom: 1px solid rgba(255, 255, 255, 30);
-        background-color: rgba(255, 255, 255, 200);
+        background-color: rgba(0, 0, 0, 200);
     }
 
 
 /* #QLineEdit */
 
     QLineEdit {
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
-            stop:0 rgba(255, 255, 255, 10));
+        background-color: rgba(255, 255, 255, 10);
         color: white;
         border:1px solid  rgba(255, 255, 255, 40);
         border-radius: 3px;
@@ -754,8 +688,7 @@
     }
 
     QLineEdit:hover {
-        background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
-            stop:0 rgba(255, 255, 255, 15));
+        background-color: rgba(255, 255, 255, 15);
         color: white;
         border: 1px solid gray;
         border:1px solid  rgba(255, 255, 255, 60);
@@ -773,7 +706,7 @@
     QTextEdit {
         border:1px solid  rgba(255, 255, 255, 30);
         border-radius: 4px;
-        background-color: rgba(0, 0, 0, 0);
+        background-color: rgba(200, 200, 200, 200);
         selection-background-color: gray;
     }
 
@@ -830,18 +763,15 @@
     QProgressBar {
         border-radius: 2px;
         text-align: center;
-        color: #222222;
-        background-color: rgba(255, 255, 255, 180);
+        color: #989898;
+        background-color: rgba(0, 0, 0, 180);
         border:1px solid qradialgradient(spread:pad, cx:0.5, cy:0.5, radius:0.276201, fx:0.5, fy:0.5,
             stop:0 rgba(255, 255, 255, 100),
             stop:1 rgba(0, 0, 0, 0))
     }
 
     QProgressBar:chunk {
-        background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1,
-            stop:0.473118 rgba(200, 79, 136, 255),
-            stop:0.489247 rgba(200, 52, 119, 255),
-            stop:1 rgba(200, 0, 105, 255));
+        background-color: rgba(230, 230, 230, 255);
         border-radius: 2px;
     }
     
