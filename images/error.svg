@@ -16,7 +16,7 @@
    inkscape:version="0.91 r13725"
    viewBox="0 0 22.000001 22"
    sodipodi:docname="error.svg"
-   inkscape:export-filename="/home/trlinux/yaliTema/images/error.png"
+   inkscape:export-filename="/home/trlinux/yali-theme-pisilinux/images/error.png"
    inkscape:export-xdpi="818.17999"
    inkscape:export-ydpi="818.17999">
   <defs
@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="17.741952"
-     inkscape:cx="4.7993881"
+     inkscape:cx="11.027564"
      inkscape:cy="14.057948"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -38,7 +38,7 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="711"
+     inkscape:window-height="718"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -96,7 +96,7 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <rect
-       style="fill:#f03916;fill-opacity:1;stroke:none"
+       style="fill:#f03916;fill-opacity:1;stroke:none;opacity:0.3"
        id="rect4103"
        width="21.628"
        height="0.9999823"
@@ -110,6 +110,6 @@
        height="0.9999823"
        width="21.628"
        id="rect4105"
-       style="fill:#f03916;fill-opacity:1;stroke:none" />
+       style="fill:#f03916;fill-opacity:1;stroke:none;opacity:0.3" />
   </g>
 </svg>

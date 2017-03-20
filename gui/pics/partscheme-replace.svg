@@ -15,7 +15,7 @@
    width="32"
    height="41"
    sodipodi:docname="partscheme-replace.svg"
-   inkscape:export-filename="/home/trlinux/yaliTema/gui/pics/partscheme-replace.png"
+   inkscape:export-filename="/home/trlinux/yali-theme-pisilinux/gui/pics/partscheme-replace.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <metadata
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,11 +42,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="711"
+     inkscape:window-height="718"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="7.7168646"
-     inkscape:cx="2.8937474"
+     inkscape:cx="-17.062544"
      inkscape:cy="27.212008"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -69,7 +69,7 @@
      x="8.7543774"
      y="13.00662" />
   <path
-     style="fill:#4d4d4d;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     style="fill:#5fbcd3;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1"
      d="m 15.740595,14.364414 -6.9612864,-3.536621 4.8342284,-0.02684 0,-5.8644061 4.24744,0.05923 0.05923,5.5302771 4.398305,0 z"
      id="path4153"
      inkscape:connector-curvature="0"

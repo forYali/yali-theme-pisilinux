@@ -15,7 +15,7 @@
    width="32"
    height="41"
    sodipodi:docname="partscheme-all.svg"
-   inkscape:export-filename="/home/trlinux/yaliTema/gui/pics/partscheme-all.png"
+   inkscape:export-filename="/home/trlinux/yali-theme-pisilinux/gui/pics/partscheme-all.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <metadata
@@ -42,11 +42,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="711"
+     inkscape:window-height="718"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="5.4566473"
-     inkscape:cx="-18.690907"
+     inkscape:cx="-2.9303135"
      inkscape:cy="32.818948"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -62,7 +62,7 @@
      inkscape:export-xdpi="90"
      inkscape:export-ydpi="90" />
   <path
-     style="fill:#4d4d4d;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     style="fill:#5fbcd3;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
      d="m 16.055024,14.874899 -6.9612863,-3.536621 4.8342293,-0.02684 0,-5.8644066 4.247439,0.05923 0.05923,5.5302776 4.398305,0 z"
      id="path4153"
      inkscape:connector-curvature="0"
