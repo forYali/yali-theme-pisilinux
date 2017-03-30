@@ -14,7 +14,7 @@
    width="100%"
    height="100%"
    sodipodi:docname="info.svg"
-   inkscape:export-filename="/home/trlinux/yaliTema/gui/pics/info.png"
+   inkscape:export-filename="/home/trlinux/yali-theme-pisilinux/images/info.png"
    inkscape:export-xdpi="36"
    inkscape:export-ydpi="36">
   <metadata
@@ -39,12 +39,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="711"
+     inkscape:window-height="718"
      id="namedview74"
      showgrid="false"
      inkscape:zoom="0.5"
-     inkscape:cx="-14.31102"
-     inkscape:cy="207.25871"
+     inkscape:cx="875.016"
+     inkscape:cy="47.25871"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -99,7 +99,7 @@
      transform="translate(0,452)" />
   <path
      sodipodi:type="arc"
-     style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:24.4549427;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:24.4549427;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;opacity:0.3"
      id="path3766"
      sodipodi:cx="-379.68039"
      sodipodi:cy="218.11607"
@@ -111,14 +111,14 @@
      transform="matrix(0.86573191,0,0,1.0834306,578.70143,13.686371)"
      sodipodi:open="true" />
   <path
-     style="fill:#ffffff;stroke:none"
+     style="fill:#ffffff;stroke:none;opacity:0.3"
      d="m 188.02435,218.87582 99.48436,-0.2867 0.73138,132.79695 c 0,0 -0.27469,3.44382 2.28766,6.24437 2.56235,2.80054 5.11187,2.87833 5.11187,2.87833 l 22.19854,0.1014 0.20275,16.11677 -126.39994,-0.30411 -0.20275,-16.31947 25.84762,0.1014 c 0,0 3.589,-0.43709 5.64493,-3.37642 2.05592,-2.93935 1.55187,-6.15174 1.55187,-6.15174 l -0.1014,-107.34363 c 0,0 0.34921,-2.68046 -3.32396,-5.81619 -3.67319,-3.13574 -7.11645,-2.79968 -7.11645,-2.79968 l -25.74624,-0.30408 z"
      id="path3779"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccczcccccczcczccc" />
   <path
      sodipodi:type="arc"
-     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;opacity:0.3"
      id="path2997-3"
      sodipodi:cx="611.39484"
      sodipodi:cy="263.50247"
